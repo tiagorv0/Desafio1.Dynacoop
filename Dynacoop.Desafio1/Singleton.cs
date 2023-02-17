@@ -8,8 +8,8 @@ namespace Dynacoop.Desafio1
         public static CrmServiceClient GetService()
         {
             var url = "https://org2607c67f.crm2.dynamics.com/";
-            var clientId = "08103a4c-8095-49f4-9472-4f352935610b";
-            var clientSecret = "v_U8Q~DzR7ecg3tQFgPpSOWwxOaCwjmi4Tr81bie";
+            var clientId = "";
+            var clientSecret = "";
 
             return new CrmServiceClient($"AuthType=ClientSecret;url={url};AppId={clientId};ClientSecret={clientSecret};");
         }
