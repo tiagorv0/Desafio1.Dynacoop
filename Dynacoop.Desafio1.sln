@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynacoop.Desafio1", "Dynacoop.Desafio1\Dynacoop.Desafio1.csproj", "{4C84401D-5DA3-472B-9E99-27BE85910275}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynacoop.Desafio2", "Dynacoop.Desafio2\Dynacoop.Desafio2.csproj", "{7FDB920E-AAD9-438B-9E80-BB4F1383D684}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4C84401D-5DA3-472B-9E99-27BE85910275}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C84401D-5DA3-472B-9E99-27BE85910275}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C84401D-5DA3-472B-9E99-27BE85910275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FDB920E-AAD9-438B-9E80-BB4F1383D684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDB920E-AAD9-438B-9E80-BB4F1383D684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDB920E-AAD9-438B-9E80-BB4F1383D684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDB920E-AAD9-438B-9E80-BB4F1383D684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
